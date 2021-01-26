@@ -16,8 +16,8 @@ with open('README.md') as readme_file:
 
 requirements = [
     "numpy>=1.17",
-    "brainio_base @ git+https://github.com/brain-score/brainio_base",
-    "brainio_collection @ git+https://github.com/brain-score/brainio_collection",
+    "brainio_base @ git+https://github.com/bwest25/brainio_base",
+    "brainio_collection @ git+https://github.com/bwest25/brainio_collection",
     "scikit-learn",
     "h5py",
     "tqdm",
